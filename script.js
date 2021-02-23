@@ -1,6 +1,6 @@
 // Turns userInput into a variable
 document.getElementById('button').addEventListener('click', age)
-const let myage = 15
+const myage = 15
 let answer = 0
 
 function age () {
